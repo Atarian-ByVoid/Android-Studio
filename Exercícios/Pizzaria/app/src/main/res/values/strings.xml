@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- tela_inicial_ strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="mu_arela__provolone__parmes_o__gorgonzola__alho__alecrin_string">Musarela, provolone, parmeso, gorgonzola, alho, alecrin</string>
+	<string name="_4_stars_string">4 Stars</string>
+	<string name="r__35_00_string">R$ 35,00</string>
+	<string name="pizza_de_quatro_queijos_string">Pizza de quatro queijos</string>
+	<string name="most_popular_string">Most popular</string>
+	<string name="ex__pizza_de_quatro_queijos_string">Ex: Pizza de quatro queijos</string>
+	<string name="meu_perfil_string">Meu perfil</string>
+	<string name="endere_os_string">Endereos</string>
+	<string name="configura__o_da_conta_string">Configurao da conta</string>
+	<string name="ajuda_string">Ajuda</string>
+	<string name="sair_string">Sair</string>
+	<string name="atarian_byvoid_string">Atarian ByVoid </string>
+	<string name="mu_arela__azeite__manjeric_o__molho_de_tomate__or_gano__alho_string">Muarela, azeite, manjerico, molho de tomate, organo, alho</string>
+	<string name="_5_stars_string">5 Stars</string>
+	<string name="r__35_00_ek1_string">R$ 35,00</string>
+	<string name="pizza_marguerita_string">Pizza marguerita</string>
+	<string name="most_popular_ek1_string">Most popular</string>
+	<string name="ex__pizza_marguerita_string">Ex: Pizza marguerita</string>
+	<string name="banana__canela__leite_mo_a__canela__chocolate_branco_string">Banana, canela, leite moa, canela, chocolate branco</string>
+	<string name="_5_stars_ek1_string">5 Stars</string>
+	<string name="r__35_00_ek2_string">R$ 35,00</string>
+	<string name="pizza_de_banana_com_canela_string">Pizza de banana com canela</string>
+	<string name="most_popular_ek2_string">Most popular</string>
+	<string name="ex__pizza_de_banana_string">Ex: Pizza de banana </string>
+	<string name="mu_arela__provolone__parmes_o__gorgonzola__alho__alecrin_ek1_string">Muarela, provolone, parmeso, gorgonzola, alho, alecrin</string>
+	<string name="_4_stars_ek1_string">4 Stars</string>
+	<string name="r__35_00_ek3_string">R$ 35,00</string>
+	<string name="pizza_de_quatro_queijos_ek1_string">Pizza de quatro queijos</string>
+	<string name="most_popular_ek3_string">Most popular</string>
+	<string name="ex__pizza_de_quatro_queijos_ek1_string">Ex: Pizza de quatro queijos</string>
+	<string name="pizza_marguerita_ek1_string">Pizza marguerita</string>
+	<string name="coca_cola_650ml_string">Coca cola 650ml</string>
+	<string name="r__54_80_string">R$ 54,80</string>
+	<string name="rua_alameda_josias__489__centro_string">Rua Alameda Josias, 489, centro</string>
+	<string name="adicionar_mais_string">Adicionar mais </string>
+	<string name="mu_arela__provolone__parmes_o__gorgonzola__alho__alecrin_ek2_string">Muarela, provolone, parmeso, gorgonzola, alho, alecrin</string>
+	<string name="_4_stars_ek2_string">4 Stars</string>
+	<string name="r__35_00_ek4_string">R$ 35,00</string>
+	<string name="pizza_de_quatro_queijos_ek2_string">Pizza de quatro queijos</string>
+	<string name="most_popular_ek4_string">Most popular</string>
+	<string name="ex__pizza_de_quatro_queijos_ek2_string">Ex: Pizza de quatro queijos</string>
+	<string name="pizzas_doces_string">Pizzas doces</string>
+	<string name="pizzas_salgadas_string">Pizzas salgadas</string>
+	<string name="pizzas_vegetarianas_string">Pizzas vegetarianas</string>
+	<string name="text_string"> </string>
+	<string name="email__string">Email:</string>
+	<string name="password__string">Password:</string>
+	<string name="text_ek1_string"> </string>
+	<string name="login_string">LOGIN</string>
+	<string name="forgot_your_password__string">Forgot your password?</string>
+</resources>

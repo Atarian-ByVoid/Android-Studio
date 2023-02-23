@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alcool_Gasolina</string>
+    <string name="Alcool">Preço do Alcool ex: 1,90</string>
+    <string name="Gasolina">Preço da Gasolina ex:: 3,50</string>
+</resources>

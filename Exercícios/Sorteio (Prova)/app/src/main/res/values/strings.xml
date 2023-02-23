@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sorteio_prova</string>
+    <string name="Superior" />
+    <string name="Inferior" />
+</resources>
